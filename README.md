@@ -38,5 +38,3 @@ The **Bus Ticket Management System** is a console-based application built using 
 - **Modularity**: Each class resides in separate packages (`Service`, `Exceptions`, `Utility`) for better organization.
 
 ---
-
-## Folder Structure
